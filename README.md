@@ -1,2 +1,3 @@
 # hello-world
-just another repos
+Learning git, taking names
+making it
